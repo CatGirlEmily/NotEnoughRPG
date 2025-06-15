@@ -1,0 +1,4 @@
+execute if items entity @s armor.feet minecraft:diamond_boots unless data entity @s Inventory[{Slot:100b}].components."minecraft:lore" run item modify entity @s armor.feet main:vanilla/armor/diamond/boots
+execute if items entity @s armor.legs minecraft:diamond_leggings unless data entity @s Inventory[{Slot:101b}].components."minecraft:lore" run item modify entity @s armor.legs main:vanilla/armor/diamond/legs
+execute if items entity @s armor.chest minecraft:diamond_chestplate unless data entity @s Inventory[{Slot:102b}].components."minecraft:lore" run item modify entity @s armor.chest main:vanilla/armor/diamond/chest
+execute if items entity @s armor.head minecraft:diamond_helmet unless data entity @s Inventory[{Slot:103b}].components."minecraft:lore" run item modify entity @s armor.head main:vanilla/armor/diamond/helmet

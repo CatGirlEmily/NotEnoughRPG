@@ -1,0 +1,4 @@
+execute if items entity @s armor.feet minecraft:golden_boots unless data entity @s Inventory[{Slot:100b}].components."minecraft:lore" run item modify entity @s armor.feet main:vanilla/armor/golden/boots
+execute if items entity @s armor.legs minecraft:golden_leggings unless data entity @s Inventory[{Slot:101b}].components."minecraft:lore" run item modify entity @s armor.legs main:vanilla/armor/golden/legs
+execute if items entity @s armor.chest minecraft:golden_chestplate unless data entity @s Inventory[{Slot:102b}].components."minecraft:lore" run item modify entity @s armor.chest main:vanilla/armor/golden/chest
+execute if items entity @s armor.head minecraft:golden_helmet unless data entity @s Inventory[{Slot:103b}].components."minecraft:lore" run item modify entity @s armor.head main:vanilla/armor/golden/helmet

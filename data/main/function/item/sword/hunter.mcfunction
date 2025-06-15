@@ -1,0 +1,1 @@
+execute if items entity @s weapon.mainhand iron_sword[custom_data~{hunter_sword:true}] run scoreboard players set @s strength_weapon_bonus 50
