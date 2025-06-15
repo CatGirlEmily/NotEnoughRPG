@@ -1,0 +1,23 @@
+[
+  {
+    "function": "minecraft:set_components",
+    "components": {
+      "minecraft:attribute_modifiers": {
+        "modifiers": [],
+        "show_in_tooltip": true
+      },
+      "minecraft:custom_data": "{diamond_boots:true,rarity:true}"
+    },
+    "conditions": []
+  },
+  {
+    "function": "minecraft:set_lore",
+    "entity": "this",
+    "lore": [
+      "§7Defense: §a+15",
+      " ",
+      "§a§lUNCOMMON BOOTS"
+    ],
+    "mode": "replace_all"
+  }
+]

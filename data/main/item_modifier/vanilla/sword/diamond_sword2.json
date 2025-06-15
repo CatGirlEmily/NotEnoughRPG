@@ -1,0 +1,11 @@
+{
+  "function": "minecraft:set_components",
+  "components": {
+    "minecraft:attribute_modifiers": {
+      "modifiers": [],
+      "show_in_tooltip": true
+    },
+    "minecraft:custom_data": "{diamond_sword:true,rarity:true}"
+  },
+  "conditions": []
+}
