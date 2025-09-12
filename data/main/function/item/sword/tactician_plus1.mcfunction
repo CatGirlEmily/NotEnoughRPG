@@ -1,0 +1,1 @@
+scoreboard players add @s tactician_bonus 5
