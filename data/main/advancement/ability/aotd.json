@@ -1,0 +1,9 @@
+{
+	"criteria": { "use_item": {
+		"trigger": "minecraft:using_item",
+		"conditions": { "item": { "predicates": {
+			"minecraft:custom_data": {"ASPECT_OF_THE_DRAGONS":true}
+		}}}
+	}},
+	"rewards": { "function": "main:item/sword/aotd" }
+}

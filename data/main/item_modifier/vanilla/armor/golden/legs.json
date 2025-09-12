@@ -1,0 +1,20 @@
+[
+  {
+    "function": "minecraft:set_components",
+    "components": {
+
+      "minecraft:custom_data": "{GOLDEN_LEGGINGS:true,rarity:true}"
+    },
+    "conditions": []
+  },
+  {
+    "function": "minecraft:set_lore",
+    "entity": "this",
+    "lore": [
+      "§7Defense: §a+15",
+      " ",
+      "§f§lCOMMON LEGGINGS"
+    ],
+    "mode": "replace_all"
+  }
+]

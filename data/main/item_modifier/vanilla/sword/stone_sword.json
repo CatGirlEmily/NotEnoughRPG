@@ -1,0 +1,19 @@
+[{
+  "function": "minecraft:set_lore",
+  "entity": "this",
+  "lore": [
+    "§7Damage: §c+25",
+    " ",
+    "§f§lCOMMON SWORD"
+  ],
+  "mode": "replace_all",
+  "conditions": []
+},
+{
+  "function": "minecraft:set_custom_data",
+  "tag": {
+    "STONE_SWORD": true,
+    "rarity": true
+  }
+}
+]

@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "kill fr": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:axolotl",
+          "nbt": "{Tags:[\"common\"]}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "main:skill/combat/grant_xp/20"
+  }
+}

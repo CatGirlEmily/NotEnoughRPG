@@ -1,0 +1,19 @@
+[{
+  "function": "minecraft:set_lore",
+  "entity": "this",
+  "lore": [
+    "§7Damage: §c+20",
+    " ",
+    "§f§lCOMMON SWORD"
+  ],
+  "mode": "replace_all",
+  "conditions": []
+},
+{
+  "function": "minecraft:set_components",
+  "components": {
+
+    "minecraft:custom_data": "{GOLEM_SWORD:true,rarity:true}"
+  },
+  "conditions": []
+}]

@@ -1,0 +1,19 @@
+[
+  {
+    "function": "minecraft:set_components",
+    "components": {
+      "minecraft:custom_data": "{CHAINMAIL_BOOTS:true,rarity:true}"
+    },
+    "conditions": []
+  },
+  {
+    "function": "minecraft:set_lore",
+    "entity": "this",
+    "lore": [
+      "§7Defense: §a+30",
+      " ",
+      "§a§lUNCOMMON CHESTPLATE"
+    ],
+    "mode": "replace_all"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "values": [
+    "minecraft:air",
+    "minecraft:void_air",
+    "minecraft:cave_air",
+    "minecraft:water",
+    "#minecraft:buttons",
+    "#minecraft:pressure_plates",
+    "minecraft:ladder",
+    "#minecraft:wool_carpets",
+    "#minecraft:banners",
+    "minecraft:kelp",
+    "minecraft:tall_grass",
+    "minecraft:short_grass",
+    "#minecraft:flowers",
+    "minecraft:lava",
+    "minecraft:torch",
+    "minecraft:soul_torch",
+    "minecraft:cobweb",
+    "minecraft:tripwire",
+    "minecraft:lever",
+    "minecraft:rail",
+    "minecraft:snow",
+    "powder_snow"
+  ]
+}

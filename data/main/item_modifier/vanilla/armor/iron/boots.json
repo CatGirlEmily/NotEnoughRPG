@@ -1,0 +1,20 @@
+[
+  {
+    "function": "minecraft:set_components",
+    "components": {
+
+      "minecraft:custom_data": "{IRON_BOOTS:true,rarity:true}"
+    },
+    "conditions": []
+  },
+  {
+    "function": "minecraft:set_lore",
+    "entity": "this",
+    "lore": [
+      "§7Defense: §a+10",
+      " ",
+      "§f§lCOMMON BOOTS"
+    ],
+    "mode": "replace_all"
+  }
+]

@@ -1,0 +1,19 @@
+[{
+  "function": "minecraft:set_lore",
+  "entity": "this",
+  "lore": [
+    "§7Damage: §c+50",
+    " ",
+    "§5§lEPIC SWORD"
+  ],
+  "mode": "replace_all",
+  "conditions": []
+},
+{
+  "function": "minecraft:set_custom_data",
+  "tag": {
+    "NETHERITE_SWORD": true,
+    "rarity": true
+  }
+}
+]

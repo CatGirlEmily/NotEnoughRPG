@@ -1,0 +1,9 @@
+{
+	"criteria": { "use_item": {
+		"trigger": "minecraft:using_item",
+		"conditions": { "item": { "predicates": {
+			"minecraft:custom_data": {"STARLIGHT_WAND":true}
+		}}}
+	}},
+	"rewards": { "function": "main:item/wand/starlight" }
+}

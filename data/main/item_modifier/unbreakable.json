@@ -1,0 +1,17 @@
+[
+  {
+    "function": "minecraft:set_components",
+    "components": {
+      "minecraft:unbreakable": {},
+      "minecraft:tooltip_display": {
+        "hidden_components": [
+          "minecraft:attribute_modifiers",
+          "minecraft:unbreakable",
+          "minecraft:consumable",
+          "minecraft:dyed_color"
+        ]
+      }
+    },
+    "conditions": []
+  }
+]

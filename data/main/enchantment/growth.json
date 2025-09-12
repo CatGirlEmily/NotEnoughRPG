@@ -1,0 +1,17 @@
+{
+  "description": "Growth",
+  "supported_items": "#main:enchantable_armor",
+  "primary_items": "#main:enchantable_armor",
+  "weight": 7,
+  "max_level": 7,
+  "min_cost": {
+    "base": 1,
+    "per_level_above_first": 1
+  },
+  "max_cost": {
+    "base": 1,
+    "per_level_above_first": 1
+  },
+  "anvil_cost": 1,
+  "slots": []
+}

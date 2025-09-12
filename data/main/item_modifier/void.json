@@ -1,0 +1,24 @@
+{
+  "function": "minecraft:set_lore",
+  "entity": "this",
+  "lore": [
+    {
+      "text": "§7Strength: §c+",
+      "extra": [
+        {
+          "score": {
+            "objective": "temp",
+            "name": "%ender_armor_pieces"
+          },
+          "type": "score",
+          "color": "red",
+          "italic": false
+        }
+      ],
+      "italic": false
+    }
+  ],
+  "mode": "replace_section",
+  "offset": 1,
+  "conditions": []
+}
