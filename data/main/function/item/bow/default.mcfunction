@@ -1,0 +1,2 @@
+execute if items entity @s weapon.mainhand bow[!minecraft:custom_data~{rarity:true}] run return run item modify entity @s weapon.mainhand main:vanilla/misc/bow
+execute if items entity @s player.cursor bow[!minecraft:custom_data~{rarity:true}] run return run item modify entity @s player.cursor main:vanilla/misc/bow

@@ -1,0 +1,1 @@
+execute as @e[type=#main:hostile,tag=!custom] run tag @s add vanilla

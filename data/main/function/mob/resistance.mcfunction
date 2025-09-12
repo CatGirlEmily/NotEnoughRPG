@@ -1,0 +1,2 @@
+execute as @e[type=!player] at @s if entity @e[type=#main:player_threat,distance=..16] run effect give @s resistance 999999 255 true
+execute as @e[type=!player] at @s unless entity @e[type=#main:player_threat,distance=..16] run effect clear @s resistance

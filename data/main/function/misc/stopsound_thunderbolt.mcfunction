@@ -1,0 +1,1 @@
+stopsound @a * minecraft:entity.lightning_bolt.thunder

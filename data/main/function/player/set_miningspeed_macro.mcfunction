@@ -1,0 +1,2 @@
+$execute if score %mining_speed2 temp matches 10.. run attribute @s minecraft:block_break_speed base set $(speed1).$(speed2)
+$execute unless score %mining_speed2 temp matches 10.. run attribute @s minecraft:block_break_speed base set $(speed1).0$(speed2)
