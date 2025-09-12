@@ -1,2 +1,0 @@
-execute if items entity @s weapon.mainhand golden_sword[custom_data~{cleaver_sword:true}] run scoreboard players set @s strength_weapon_bonus 40
-execute if items entity @s weapon.mainhand golden_sword[custom_data~{cleaver_sword:true}] run scoreboard players set @s strength_weapon_bonus_rl 10

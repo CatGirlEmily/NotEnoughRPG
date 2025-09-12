@@ -1,9 +1,0 @@
-{
-	"criteria": { "use_item": {
-		"trigger": "minecraft:using_item",
-		"conditions": { "item": { "predicates": {
-			"minecraft:custom_data": {"squid_sword":true}
-		}}}
-	}},
-	"rewards": { "function": "main:item/sword/squid_sword" }
-}

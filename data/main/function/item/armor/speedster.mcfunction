@@ -1,2 +1,0 @@
-attribute @s movement_speed modifier remove speedster_bonus
-execute if items entity @s armor.feet *[custom_data~{speedster:true}] if items entity @s armor.legs *[custom_data~{speedster:true}] if items entity @s armor.chest *[custom_data~{speedster:true}] if items entity @s armor.head *[custom_data~{speedster:true}] run attribute @s minecraft:movement_speed modifier add speedster_bonus 0.2 add_multiplied_base
