@@ -1,0 +1,1 @@
+give @s bow[custom_name={"color":"green","italic":false,"text":"Decent Bow"},lore=[[{"color":"gray","italic":false,"text":"Damage: "},{"color":"red","italic":false,"text":"+45"}]," ",{"bold":true,"color":"green","italic":false,"text":"UNCOMMON BOW"}],custom_data={decent_bow:true,rarity:true,DECENT_BOW:true},tooltip_display={hidden_components:["attribute_modifiers"]}] 1

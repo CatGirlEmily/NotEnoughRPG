@@ -1,0 +1,7 @@
+{
+  "values":[
+	"cw_hp_disp:load",
+	"main:init",
+  "entity_hit_matching:load"
+  ]
+}

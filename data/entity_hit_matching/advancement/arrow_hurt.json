@@ -1,0 +1,17 @@
+{
+  "criteria": {
+    "hurt": {
+      "trigger": "minecraft:player_hurt_entity",
+      "conditions": {
+        "damage": {
+          "type": {
+            "direct_entity": {
+              "type": "#minecraft:arrows"
+            },
+            "is_direct": false
+          }
+        }
+      }
+    }
+  }
+}

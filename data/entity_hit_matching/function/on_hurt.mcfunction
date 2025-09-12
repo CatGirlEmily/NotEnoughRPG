@@ -1,0 +1,1 @@
+execute on target run function main:player/taken_damage

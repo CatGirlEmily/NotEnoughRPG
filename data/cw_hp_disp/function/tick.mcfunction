@@ -1,0 +1,2 @@
+execute as @e[type=!#cw_hp_disp:no_hp,nbt={HurtTime:9s},tag=!exclude] run function cw_hp_disp:update
+execute if score %regeneration mob_hp matches 1 as @e[type=!#cw_hp_disp:no_hp,tag=!exclude] run function cw_hp_disp:update

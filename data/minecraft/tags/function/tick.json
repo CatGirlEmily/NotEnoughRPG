@@ -1,0 +1,7 @@
+{
+  "values":[
+	"cw_hp_disp:tick",
+	"main:tick",
+  "entity_hit_matching:tick"
+  ]
+}
